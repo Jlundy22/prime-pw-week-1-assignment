@@ -1,6 +1,7 @@
 /* Give your page a fun background color */
 body {
     background-color: blueviolet;
+    font-family: fantasy;
 }
 
 /* Make the header and footer a different color from the background */
@@ -24,6 +25,5 @@ img {
 
 
 
-/* Put a border around your image */
 
 /* Change the font-family of your list */
