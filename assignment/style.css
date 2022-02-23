@@ -9,8 +9,9 @@ header {
     text-align: center;
 }
 footer {
-    background-color: chartreuse;
-    color: darkgray;
+    background-color: red;
+    color: white;
+    font-style: italic;
 }
 
 
