@@ -7,6 +7,9 @@ body {
 header {
     background-color: cadetblue;
 }
+footer {
+    background-color: chartreuse;
+}
 /* Align the h1 containing your name in the center of the header*/
 
 /* Make your p tag a different color and italic */
