@@ -1,18 +1,21 @@
 /* Give your page a fun background color */
 body {
-    background-color: blueviolet;
-    font-family: fantasy;
+    background-color: rgb(182, 76, 14);
+    font-family: monospace;
 }
+
 
 /* Make the header and footer a different color from the background */
 header {
-    background-color: cadetblue;
+    background-color: rgb(187, 96, 11);
     text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 footer {
-    background-color: red;
+    background-color: rgb(141, 63, 18);
     color: white;
     font-style: italic;
+    text-align: center;
 }
 img {
     border-style: dashed;
